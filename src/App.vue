@@ -1,10 +1,5 @@
-<script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue';
-</script>
+<script setup lang="ts"></script>
 
 <template></template>
 
-<style>
-#app {
-}
-</style>
+<style lang="scss"></style>
